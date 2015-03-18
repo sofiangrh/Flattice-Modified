@@ -20,5 +20,5 @@ Here's the screenshot from my desk.
 - panel-button-active.png
 - pabel-button-active-prelight.png
 
-> Note: 
-> all those .png files comes from Mac4Lin GTK theme.
+# Note: 
+> all those .png files on Panel directory comes from [Mac4Lin](http://sourceforge.net/projects/mac4lin/) GTK theme.
